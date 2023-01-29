@@ -1,0 +1,15 @@
+No se agregan los productos por mas que la operacion es exitosa -> no hice el SaveChanges
+Como usar dos propiedades distintas como identificador -> Alternate keys
+
+Ahora se pasa el handler de un presentador al tomar pedido, esto significa que si se cierra la 
+lista de pedidos y se abre otra, el pedido listo no se actualizaria
+-Probar con clase MonitorPedidos, un singleton que posee un eventhandler para cada pedido, el cual dispara otro evento al cual cada presentador se suscribe.
+-Probar suscribir el presentador al evento al cargar inicialmente los pedidos
+-> usar el monitor
+
+Como continuar el timer despues de cerrar y abrir?
+Guardar el tiempo restante del pedido y reiniciar el timer al cargar los pedidos?
+No es realista, si un pedido demmora 5, cierro y abro la aplicacion 10 despues, el pedido deberia estar listo
+Agregar boton para pasar manualmente?
+
+Tarea hace el dispose de vista y presentador
