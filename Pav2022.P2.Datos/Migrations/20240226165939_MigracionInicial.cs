@@ -2,7 +2,7 @@
 
 namespace Pav2022.P2.Datos.Migrations
 {
-    public partial class Inicial : Migration
+    public partial class MigracionInicial : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -57,7 +57,7 @@ namespace Pav2022.P2.Datos.Migrations
                         column: x => x.PedidoId,
                         principalTable: "Pedidos",
                         principalColumn: "Id",
-                        onDelete: ReferentialAction.Restrict);
+                        onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
                         name: "FK_LineasPedido_Productos_ProductoId",
                         column: x => x.ProductoId,

@@ -10,8 +10,8 @@ using Pav2022.P2.Datos;
 namespace Pav2022.P2.Datos.Migrations
 {
     [DbContext(typeof(LosPedidosContexto))]
-    [Migration("20220811210255_Inicial")]
-    partial class Inicial
+    [Migration("20240226165939_MigracionInicial")]
+    partial class MigracionInicial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -102,7 +102,8 @@ namespace Pav2022.P2.Datos.Migrations
                 {
                     b.HasOne("Pav2022.P2.Dominio.Entidades.Pedido", null)
                         .WithMany("Lineas")
-                        .HasForeignKey("PedidoId");
+                        .HasForeignKey("PedidoId")
+                        .OnDelete(DeleteBehavior.Cascade);
 
                     b.HasOne("Pav2022.P2.Dominio.Entidades.Producto", "Producto")
                         .WithMany()

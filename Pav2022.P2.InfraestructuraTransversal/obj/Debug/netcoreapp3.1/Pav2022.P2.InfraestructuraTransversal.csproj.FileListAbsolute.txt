@@ -18,3 +18,13 @@ C:\Users\marti\Documents\General\College\4-Cuarto\PAV\Parciales\V3\Pav2022.P2\Pa
 C:\Users\marti\Documents\General\College\4-Cuarto\PAV\Parciales\V3\Pav2022.P2\Pav2022.P2.InfraestructuraTransversal\obj\Debug\netcoreapp3.1\Pav2022.P2.InfraestructuraTransversal.csproj.CoreCompileInputs.cache
 C:\Users\marti\Documents\General\College\4-Cuarto\PAV\Parciales\V3\Pav2022.P2\Pav2022.P2.InfraestructuraTransversal\obj\Debug\netcoreapp3.1\Pav2022.P2.InfraestructuraTransversal.dll
 C:\Users\marti\Documents\General\College\4-Cuarto\PAV\Parciales\V3\Pav2022.P2\Pav2022.P2.InfraestructuraTransversal\obj\Debug\netcoreapp3.1\Pav2022.P2.InfraestructuraTransversal.pdb
+D:\Documents\Repos\PAV-GestionDePedidos\Pav2022.P2.InfraestructuraTransversal\bin\Debug\netcoreapp3.1\Pav2022.P2.InfraestructuraTransversal.deps.json
+D:\Documents\Repos\PAV-GestionDePedidos\Pav2022.P2.InfraestructuraTransversal\bin\Debug\netcoreapp3.1\Pav2022.P2.InfraestructuraTransversal.dll
+D:\Documents\Repos\PAV-GestionDePedidos\Pav2022.P2.InfraestructuraTransversal\bin\Debug\netcoreapp3.1\Pav2022.P2.InfraestructuraTransversal.pdb
+D:\Documents\Repos\PAV-GestionDePedidos\Pav2022.P2.InfraestructuraTransversal\obj\Debug\netcoreapp3.1\Pav2022.P2.InfraestructuraTransversal.csproj.AssemblyReference.cache
+D:\Documents\Repos\PAV-GestionDePedidos\Pav2022.P2.InfraestructuraTransversal\obj\Debug\netcoreapp3.1\Pav2022.P2.InfraestructuraTransversal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Repos\PAV-GestionDePedidos\Pav2022.P2.InfraestructuraTransversal\obj\Debug\netcoreapp3.1\Pav2022.P2.InfraestructuraTransversal.AssemblyInfoInputs.cache
+D:\Documents\Repos\PAV-GestionDePedidos\Pav2022.P2.InfraestructuraTransversal\obj\Debug\netcoreapp3.1\Pav2022.P2.InfraestructuraTransversal.AssemblyInfo.cs
+D:\Documents\Repos\PAV-GestionDePedidos\Pav2022.P2.InfraestructuraTransversal\obj\Debug\netcoreapp3.1\Pav2022.P2.InfraestructuraTransversal.csproj.CoreCompileInputs.cache
+D:\Documents\Repos\PAV-GestionDePedidos\Pav2022.P2.InfraestructuraTransversal\obj\Debug\netcoreapp3.1\Pav2022.P2.InfraestructuraTransversal.dll
+D:\Documents\Repos\PAV-GestionDePedidos\Pav2022.P2.InfraestructuraTransversal\obj\Debug\netcoreapp3.1\Pav2022.P2.InfraestructuraTransversal.pdb

@@ -21,9 +21,7 @@ namespace Pav2022.P2.Datos
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (optionsBuilder.IsConfigured) return;
-
-            //optionsBuilder.UseSqlServer(@"Server=(localdb)\MSSQLLocalDB;Database=LosPedidos;Integrated Security=True;");
-            optionsBuilder.UseSqlServer(@"Data Source=LAPTOP-4IM7024F;Database=LosPedidos;Integrated Security=True;");
+            optionsBuilder.UseSqlServer(@"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=LosPedidos;Integrated Security=True;");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

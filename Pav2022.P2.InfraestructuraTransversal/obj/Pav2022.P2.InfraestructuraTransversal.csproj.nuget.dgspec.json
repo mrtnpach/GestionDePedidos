@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marti\\Documents\\General\\College\\4-Cuarto\\PAV\\Parciales\\V3\\Pav2022.P2\\Pav2022.P2.InfraestructuraTransversal\\Pav2022.P2.InfraestructuraTransversal.csproj": {}
+    "D:\\Documents\\Repos\\PAV-GestionDePedidos\\Pav2022.P2.InfraestructuraTransversal\\Pav2022.P2.InfraestructuraTransversal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marti\\Documents\\General\\College\\4-Cuarto\\PAV\\Parciales\\V3\\Pav2022.P2\\Pav2022.P2.InfraestructuraTransversal\\Pav2022.P2.InfraestructuraTransversal.csproj": {
+    "D:\\Documents\\Repos\\PAV-GestionDePedidos\\Pav2022.P2.InfraestructuraTransversal\\Pav2022.P2.InfraestructuraTransversal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marti\\Documents\\General\\College\\4-Cuarto\\PAV\\Parciales\\V3\\Pav2022.P2\\Pav2022.P2.InfraestructuraTransversal\\Pav2022.P2.InfraestructuraTransversal.csproj",
+        "projectUniqueName": "D:\\Documents\\Repos\\PAV-GestionDePedidos\\Pav2022.P2.InfraestructuraTransversal\\Pav2022.P2.InfraestructuraTransversal.csproj",
         "projectName": "Pav2022.P2.InfraestructuraTransversal",
-        "projectPath": "C:\\Users\\marti\\Documents\\General\\College\\4-Cuarto\\PAV\\Parciales\\V3\\Pav2022.P2\\Pav2022.P2.InfraestructuraTransversal\\Pav2022.P2.InfraestructuraTransversal.csproj",
-        "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marti\\Documents\\General\\College\\4-Cuarto\\PAV\\Parciales\\V3\\Pav2022.P2\\Pav2022.P2.InfraestructuraTransversal\\obj\\",
+        "projectPath": "D:\\Documents\\Repos\\PAV-GestionDePedidos\\Pav2022.P2.InfraestructuraTransversal\\Pav2022.P2.InfraestructuraTransversal.csproj",
+        "packagesPath": "C:\\Users\\Martin\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\Repos\\PAV-GestionDePedidos\\Pav2022.P2.InfraestructuraTransversal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\marti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Martin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

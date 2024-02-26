@@ -18,3 +18,13 @@ C:\Users\marti\Documents\General\College\4-Cuarto\PAV\Parciales\V3\Pav2022.P2\Pa
 C:\Users\marti\Documents\General\College\4-Cuarto\PAV\Parciales\V3\Pav2022.P2\Pav2022.P2.Dominio\obj\Debug\netcoreapp3.1\Pav2022.P2.Dominio.csproj.CoreCompileInputs.cache
 C:\Users\marti\Documents\General\College\4-Cuarto\PAV\Parciales\V3\Pav2022.P2\Pav2022.P2.Dominio\obj\Debug\netcoreapp3.1\Pav2022.P2.Dominio.dll
 C:\Users\marti\Documents\General\College\4-Cuarto\PAV\Parciales\V3\Pav2022.P2\Pav2022.P2.Dominio\obj\Debug\netcoreapp3.1\Pav2022.P2.Dominio.pdb
+D:\Documents\Repos\PAV-GestionDePedidos\Pav2022.P2.Dominio\bin\Debug\netcoreapp3.1\Pav2022.P2.Dominio.deps.json
+D:\Documents\Repos\PAV-GestionDePedidos\Pav2022.P2.Dominio\bin\Debug\netcoreapp3.1\Pav2022.P2.Dominio.dll
+D:\Documents\Repos\PAV-GestionDePedidos\Pav2022.P2.Dominio\bin\Debug\netcoreapp3.1\Pav2022.P2.Dominio.pdb
+D:\Documents\Repos\PAV-GestionDePedidos\Pav2022.P2.Dominio\obj\Debug\netcoreapp3.1\Pav2022.P2.Dominio.csproj.AssemblyReference.cache
+D:\Documents\Repos\PAV-GestionDePedidos\Pav2022.P2.Dominio\obj\Debug\netcoreapp3.1\Pav2022.P2.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Repos\PAV-GestionDePedidos\Pav2022.P2.Dominio\obj\Debug\netcoreapp3.1\Pav2022.P2.Dominio.AssemblyInfoInputs.cache
+D:\Documents\Repos\PAV-GestionDePedidos\Pav2022.P2.Dominio\obj\Debug\netcoreapp3.1\Pav2022.P2.Dominio.AssemblyInfo.cs
+D:\Documents\Repos\PAV-GestionDePedidos\Pav2022.P2.Dominio\obj\Debug\netcoreapp3.1\Pav2022.P2.Dominio.csproj.CoreCompileInputs.cache
+D:\Documents\Repos\PAV-GestionDePedidos\Pav2022.P2.Dominio\obj\Debug\netcoreapp3.1\Pav2022.P2.Dominio.dll
+D:\Documents\Repos\PAV-GestionDePedidos\Pav2022.P2.Dominio\obj\Debug\netcoreapp3.1\Pav2022.P2.Dominio.pdb
